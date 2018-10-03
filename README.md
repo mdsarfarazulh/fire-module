@@ -8,4 +8,5 @@ Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Da
 </ul>
 
 This figure illustrates the structure of each fire module
+<br>
 <img src="/FireModule.jpg" alt="Fire Module"/>
