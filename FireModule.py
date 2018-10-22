@@ -36,7 +36,7 @@ def get_fire_module(X, filters, layer_id):
     len_filters = len(filters)
 
 
-    assert (len_filters > 0), 'Fitlers size should be `Non-zero`'
+    assert (len_filters > 0), 'Fitlers size should be `Non-zero` and `positive`'
     assert (len_filters <= NO_OF_CONV_LAYERS), 'Size of filters array should be less then `3`'
 
     ''' To set the number of filters in each of the Convolutional Layer '''
